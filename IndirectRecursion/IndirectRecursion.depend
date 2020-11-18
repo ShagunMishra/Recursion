@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1592188566 source:e:\program\ds\indirectrecursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1592188566 source:e:\program\ds\recursion\indirectrecursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
