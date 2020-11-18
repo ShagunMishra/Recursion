@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1592025956 source:e:\tailhead\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1592026624 source:e:\program\ds\recursion\tailhead\main.c
+	<stdio.h>
+	<stdlib.h>
+
