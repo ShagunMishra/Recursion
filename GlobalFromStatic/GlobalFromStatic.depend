@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592028541 source:e:\program\ds\recursion\globalfromstatic\main.c
+	<stdio.h>
+	<stdlib.h>
+
