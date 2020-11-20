@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1592354973 source:e:\program\ds\sumnatural\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1592354973 source:e:\program\ds\recursion\sumnatural\main.c
+	<stdio.h>
+	<stdlib.h>
+
