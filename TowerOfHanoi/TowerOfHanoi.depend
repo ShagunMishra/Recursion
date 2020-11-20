@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592915829 source:e:\program\ds\recursion\towerofhanoi\main.c
+	<stdio.h>
+	<stdlib.h>
+
